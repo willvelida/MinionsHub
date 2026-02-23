@@ -31,4 +31,5 @@ compatibility:
   - claude
   - opencode
 
-dependencies: []
+dependencies:
+  - name: git-workflow
